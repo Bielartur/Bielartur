@@ -41,7 +41,7 @@ Sou um desenvolvedor back-end de Pernambuco, Brasil. <br><br>
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,docker,django,flask,postgresql&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,javascript,tailwindcss,docker,django,flask,postgresql,mysql&perline=5)](https://skillicons.dev)
 
 ###
 
