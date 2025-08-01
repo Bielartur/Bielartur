@@ -30,7 +30,7 @@
 ###
 
 <p align="left">
-Sou um desenvolvedor back-end de Pernambuco, Brasil. <br><br>
+Sou um desenvolvedor full stack com foco em back-end de Pernambuco, Brasil. <br><br>
 - 📚 Atualmente estudando mais sobre Flask, Django e integração de APIs<br>
 - ⚡ No tempo livre, gosto de ouvir música e treinar
 </p>
